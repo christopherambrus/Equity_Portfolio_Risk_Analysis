@@ -1,0 +1,3 @@
+A comprehensive framework for financial risk evaluation and portfolio optimization. The project leverages historical stock data to calculate Value at Risk (VaR) and Expected Shortfall (ES) using methods such as historical analysis, variance-covariance, and Monte Carlo simulations. 
+Extreme risk scenarios, including stress testing during the 2008 Financial Crisis, are assessed with techniques like Extreme Value Theory (EVT) and Peaks Over Threshold (PoT). 
+Portfolio optimization minimizes risk using methods like minimum variance and ES-based allocation. Includes visualization tools for risk metrics and statistical analysis of heavy-tail behavior.
